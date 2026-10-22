@@ -1,6 +1,6 @@
 # kevscan
 
-[![CI](https://github.com/VOTRE-COMPTE/kevscan/actions/workflows/ci.yml/badge.svg)](https://github.com/VOTRE-COMPTE/kevscan/actions)
+[![CI](https://github.com/Gabriel-temstet/kevscan/actions/workflows/ci.yml/badge.svg)](https://github.com/VOTRE-COMPTE/kevscan/actions)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Dépendances](https://img.shields.io/badge/d%C3%A9pendances-aucune-brightgreen)
 ![Licence](https://img.shields.io/badge/licence-MIT-lightgrey)
