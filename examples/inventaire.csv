@@ -1,0 +1,5 @@
+host,name,version
+SRV-WEB01,Apache HTTP Server,2.4.49
+SRV-WEB01,OpenSSH,8.2p1
+PC-COMPTA01,Microsoft Windows,10.0.19045
+PC-COMPTA01,Google Chrome,118.0.5993.70

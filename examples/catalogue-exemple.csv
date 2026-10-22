@@ -1,0 +1,3 @@
+cveID,vendorProject,product,vulnerabilityName,dateAdded,shortDescription,requiredAction,dueDate,knownRansomwarecampaignUse,notes,cwes
+CVE-2021-41773,Apache,HTTP Server,Apache HTTP Server Path Traversal Vulnerability,2021-11-03,Path traversal.,Apply updates per vendor instructions.,2021-11-17,Known,,CWE-22
+CVE-2023-4863,Google,Chromium WebP,Google Chromium WebP Heap Buffer Overflow,2023-09-13,Heap overflow.,Apply updates per vendor instructions.,2023-10-04,Unknown,,CWE-787
